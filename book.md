@@ -11,7 +11,7 @@ Our chapbook comes in many formats:
 
 <a href="https://docs.google.com/document/d/1o4dbbsqHpfyGTvlNcZPUMrxVQYVqHC2WKJ9AglfshPI/edit?usp=sharing" target="_blank" class="ats-button">Open as Google doc</a>
 
-<a href="https://alttextselfies.net/assets/sounds/alt-text-selfies-chapbook.docx" class="ats-button">Download as a Word doc</a>
+<a href="https://alttextselfies.net/assets/sounds/Alt-Text-Selfies-Chapbook-2026.docx" class="ats-button">Download as a Word doc</a>
 
 <a href="https://alttextselfies.net/assets/sounds/alt-text-selfies-chapbook.pdf" class="ats-button">Download as a untagged PDF</a>
 
