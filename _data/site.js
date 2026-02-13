@@ -1,4 +1,4 @@
-module.exports = function() {
+module.exports = function () {
   if (process.env.NODE_ENV === "development") {
     return {
       url: "http://localhost:8080",
